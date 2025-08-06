@@ -1,10 +1,17 @@
-# multiple-disease-prediction-streamlit-app
-This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
+🩺Multi-Disease Diagnosis Platform
 
-app.py is the streamlit app code.
-run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+The Multi-Disease Diagnosis Platform is a Machine Learning-powered web application designed to predict multiple health conditions based on user input. This project aims to assist in the early detection of diseases by leveraging predictive analytics on clinical data. Users can enter relevant health metrics, and the system instantly provides a prediction for the presence or absence of specific diseases.
 
-You may need to install additional libraries for running the jupyter notebooks
+🔍 Key Features:
+Predicts Diabetes, Heart Disease, and Parkinson’s Disease
+
+Built using Python, Streamlit, and scikit-learn
+
+Clean, interactive, and user-friendly web interface
+
+Multiple trained ML models for each disease with good accuracy
+
+Deployed for real-time use
 
 ## Screenshots :- 
 # Home Page
